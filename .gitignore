@@ -1,0 +1,14 @@
+target/
+*.class
+*.war
+
+.env
+.env.*
+!.env.example
+
+db.properties
+
+.idea/
+.vscode/
+
+*.log

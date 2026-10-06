@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id>1</id>
+        <name>CIT Official T-Shirt</name>
+        <category>Clothing</category>
+        <price>499.00</price>
+        <stock>150</stock>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Engineering Mathematics Textbook</name>
+        <category>Books</category>
+        <price>450.00</price>
+        <stock>25</stock>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Scientific Calculator (Casio fx-991EX)</name>
+        <category>Electronics</category>
+        <price>1350.00</price>
+        <stock>15</stock>
+    </product>
+    <product>
+        <id>4</id>
+        <name>College Laptop Bag</name>
+        <category>Accessories</category>
+        <price>799.00</price>
+        <stock>30</stock>
+    </product>
+    <product>
+        <id>5</id>
+        <name>Drawing Instrument Set</name>
+        <category>Stationery</category>
+        <price>350.00</price>
+        <stock>35</stock>
+    </product>
+</products>
